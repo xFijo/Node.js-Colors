@@ -8,7 +8,7 @@ COLORS
 npm i colors  : 
 
 const colors = require('colors');
-console.log('Text in red'.red);
+-- console.log('Text in red'.red);
 
 
 ----------------------------------------------------------------------------
@@ -19,7 +19,7 @@ CHALK
 npm i chalk  :
 
 const chalk = require('chalk');
-console.log(chalk.red('Text in red'));
+-- console.log(chalk.red('Text in red'));
 
 
 ----------------------------------------------------------------------------
@@ -58,4 +58,4 @@ BgWhite = "\x1b[47m"
 
 Usage   :
 
-console.log('\x1b[36m%s\x1b[0m', 'I am cyan');
+-- console.log('\x1b[36m%s\x1b[0m', 'I am cyan');
